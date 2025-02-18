@@ -1,6 +1,4 @@
 # myrepo 
-author- pooja
+ <b> author- pooja <b>
 <br>
-<b>
 want to revise concepts
-<b>
